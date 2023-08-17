@@ -1,3 +1,4 @@
 testanto esse bagulho chamado git ca Turma B
-
 Tudo funcionando corretamente
+
+A turma esta aprendendo!
