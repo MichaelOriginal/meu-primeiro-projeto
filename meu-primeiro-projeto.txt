@@ -1,4 +1,5 @@
-testanto esse bagulho chamado git ca Turma B
-Tudo funcionando corretamente
+Lista de coisas para fazer o projeto:
 
-A turma esta aprendendo!
+- Cadastrar pets perdidos e encontrados
+- Tela de login
+- Tela para visualizacao(nao necessário login)
